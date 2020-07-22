@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-<!--
-**brendanperry/brendanperry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student at PFW, intern at Aptera, and curious programmer.
 
-Here are some ideas to get you started:
+I enjoy baseball, finance, and family.
 
-- 🔭 I’m currently working on ... Hexmesh, a Unity iOS game
-- 🌱 I’m currently learning ... React
-- 📫 How to reach me: ... on my website brendanperry.me or LinkedIn: linkedin.com/in/brendanperry
+I am working on a Unity made iOS game right now called Hexmesh.
+
+I am currently learning Flutter.
+
+Say hey bperry@hey.com
