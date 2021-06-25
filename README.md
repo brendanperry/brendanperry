@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi! 👋
 
-I am a student at PFW and developer at Aptera.
+My name is Brendan, and I love to build things.
+I have a passion for open-source and privacy respecting software.
 
-I enjoy baseball, finance, and family.
-
-Say hey bperry@hey.com
+- Reach out: brendan@brendanperry.me
+- Connect: www.linkedin.com/in/brendanperry
